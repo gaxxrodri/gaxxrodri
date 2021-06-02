@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gaspar R.<div>a.k.a Gaxx</div></h1>
-<h3 align="center">FullStack Developer based on JavaScript and TypeScript</h3>
+<h1 align="center">Hi 👋, I'm Gaspar R. </h1> <p align="center">a.k.a Gaxx</p>
+<h3 align="center">I'm a FullStack Developer based on JavaScript and TypeScript</h3>
 
 
 - 🌱 All of my projects are available at https://github.com/gaxxrodri
