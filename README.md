@@ -4,7 +4,7 @@
 
 - 📍 I'm living in Barcelona, Spain
 
-- 🔭 I’m currently working on **YourCO2Footprint**, a full stack mobile App in ReactNative with TS.
+- 🔭 I’m currently working on **Your CO2 Footprint**, a full stack mobile App in ReactNative with TS.
 
 - 👨‍💻 All of my projects are available at [https://github.com/gaxxrodri](https://github.com/gaxxrodri)
 
