@@ -14,6 +14,7 @@
 
 
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gaspar-rdg" target="_blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" alt="Linkedin/gaspar-rdg" height="40" width="40"/> <span> LinkedIn/gaspar-rdg </span> </a>
