@@ -2,7 +2,7 @@
 <h3 align="center">I'm a FullStack Developer based on JavaScript and TypeScript</h3>
 
 
-- 📍 I'm living in Barcelona, Spain
+- 📍 I'm living in Christchurch, New Zealand
 
 - 🔭 I’m currently working in **BeMobile**, a company for innovation and application development in Barcelona.
 
