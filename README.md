@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gasrod" target="_blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" alt="Linkedin/gasrod" height="40" width="40"/> <span> LinkedIn/gaspar-rdg </span> </a>
+<a href="https://linkedin.com/in/gasrod" target="_blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" alt="Linkedin/gasrod" height="40" width="40"/> <span> LinkedIn/gasrod </span> </a>
 <p align="left">
 <img align="center" src="https://i.blogs.es/d99c32/new_logo_gmail.svg/450_1000.png" alt="email-logo" height="30" width="40"/> <span>My email: gasrod.dev@gmail.com</span>
   
