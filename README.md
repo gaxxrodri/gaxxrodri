@@ -2,15 +2,15 @@
 <h3 align="center">I'm a FullStack Developer based on JavaScript and TypeScript</h3>
 
 
-- 📍 I'm living in Christchurch, New Zealand
+- 📍 I'm living in Barcelona, Spain
 
-- 🔭 I’m currently working in **BeMobile**, a company for innovation and application development in Barcelona.
+- 🔭 I’m currently working in **Leadtech**, a company for innovation and application development in Barcelona.
 
 - 👨‍💻 All of my projects are available at [https://github.com/gaxxrodri](https://github.com/gaxxrodri)
 
 - ⚡ Fun fact **I really enjoy the testing part =D**, also I have a Degree in Biotechnology and Molecular Biology.
 
-- 💬 Ask me about **React, React Native, Node, Mongo, and nature!**
+- 💬 Ask me about **React, React Native, Node, Typescript, and nature!**
 
 
 
