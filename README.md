@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **I really enjoy the testing part =D**, also I have a Degree in Biotechnology and Molecular Biology.
 
-- 💬 Ask me about **React, React Native, Node, Typescript, and nature!**
+- 💬 Ask me about **React, React Native, Next, Typescript, and nature!**
 
 
 
