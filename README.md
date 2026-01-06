@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/gaxxrodri](https://github.com/gaxxrodri)
 
-- ⚡ Fun fact **I really enjoy the testing part =D**, also I have a Degree in Biotechnology and Molecular Biology.
+- ⚡ Extra fact I have a **Degree in Biotechnology and Molecular Biology**.
 
 - 💬 Ask me about **React, React Native, Next, Typescript, and nature!**
 
