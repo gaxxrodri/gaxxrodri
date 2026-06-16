@@ -4,7 +4,7 @@
 
 - 📍 I'm living in Barcelona, Spain
 
-- 🔭 I’m currently working in **Leadtech**, a company for innovation and application development in Barcelona.
+- 🔭 I’m currently working in a company for innovation and application development in Barcelona.
 
 - 👨‍💻 All of my projects are available at [https://github.com/gaxxrodri](https://github.com/gaxxrodri)
 
